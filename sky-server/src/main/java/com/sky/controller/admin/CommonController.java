@@ -14,7 +14,8 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 import java.util.UUID;
-
+//如何启动minio
+//docker run -p 9000:9000 -p 9001:9001 -e MINIO_ROOT_USER=admin -e MINIO_ROOT_PASSWORD=2628282145 -v D:\minio\data:/data minio/minio server /data --console-address ":9001"
 /**
  * 通用接口
  */
