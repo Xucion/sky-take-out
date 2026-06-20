@@ -6,3 +6,8 @@ sky:
     database: sky_take_out
     username: root
     password: 2628
+  minio:
+    endpoint: http://localhost:9000
+    access-key: admin
+    secret-key: 2628282145
+    bucket-name: sky-itcast
