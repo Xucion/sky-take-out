@@ -11,3 +11,8 @@ sky:
     access-key: admin
     secret-key: 2628282145
     bucket-name: sky-itcast
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10

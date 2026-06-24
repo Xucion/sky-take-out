@@ -31,7 +31,8 @@
     {
       "name": "sky.jwt.admin-ttl",
       "type": "java.lang.Long",
-      "sourceType": "com.sky.properties.JwtProperties"
+      "sourceType": "com.sky.properties.JwtProperties",
+      "defaultValue": 0
     },
     {
       "name": "sky.jwt.user-secret-key",
@@ -47,7 +48,8 @@
     {
       "name": "sky.jwt.user-ttl",
       "type": "java.lang.Long",
-      "sourceType": "com.sky.properties.JwtProperties"
+      "sourceType": "com.sky.properties.JwtProperties",
+      "defaultValue": 0
     },
     {
       "name": "sky.minio.access-key",
