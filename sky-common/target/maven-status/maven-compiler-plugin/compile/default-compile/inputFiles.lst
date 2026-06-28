@@ -3,7 +3,9 @@ D:\code\sky-take-out\sky-common\src\main\java\com\sky\exception\OrderBusinessExc
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\exception\LoginFailedException.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\result\Result.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\utils\AliOssUtil.java
+D:\code\sky-take-out\sky-common\src\main\java\com\sky\utils\MinioUtil.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\exception\AccountNotFoundException.java
+D:\code\sky-take-out\sky-common\src\main\java\com\sky\properties\MinioProperties.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\utils\JwtUtil.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\constant\MessageConstant.java
 D:\code\sky-take-out\sky-common\src\main\java\com\sky\constant\StatusConstant.java
