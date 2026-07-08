@@ -88,6 +88,6 @@ public class ShoppingCartServiceImpl implements ShoppingCartService {
     public void cleanShoppingCart() {
         //获取到当前微信用户的id
         Long userId = BaseContext.getCurrentId();
-
+        shoppingCartMapper.deleteByUserId(userId);
     }
 }
